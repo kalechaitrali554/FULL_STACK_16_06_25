@@ -1,4 +1,4 @@
-package com.nayandemo;
+ package com.nayandemo;
 
 public class Student2 {
    int sId;
